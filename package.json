@@ -1,11 +1,16 @@
 {
   "name": "faceppsdk",
-  "version": "0.1.4",
-  "author": {
+  "version": "0.2.0",
+  "author": [{
     "name": "nicky",
     "email": "lele9112@163.com",
     "url": "nicky9112.github.io"
   },
+  {
+    "name": "sean",
+    "email": "scunningham013@gmail.com",
+    "url": "seancunningham.github.io"
+  }],
   "description": "face++ node.js sdk.",
   "keywords": [
     "face++",
@@ -15,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicky9112/faceppsdk.git"
+    "url": "https://github.com/seancunningham/faceppsdk"
   },
   "dependencies": {
     "request": "^2.42.0",
