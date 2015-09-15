@@ -2,6 +2,7 @@ Face++ node.js sdk.
 ============
 
 Based on the face++ official API build.
+ ** This is an update of nicky9112's faceppsdk to reflect the v2 interface and fix small bugs I noticed.
 
 # Install
 
